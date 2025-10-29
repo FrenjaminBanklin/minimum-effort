@@ -1,25 +1,31 @@
 const list1 = [
-	'Dumb',
-	'Sucky',
-	'Doofus',
-	'Foolish',
-	'Simpleminded',
-	'Lazy',
-	'Dull',
-	'Surly',
-	'Lame'
+	'dumb',
+	'sucky',
+	'doofus',
+	'foolish',
+	'simpleminded',
+	'lazy',
+	'dull',
+	'surly',
+	'lame',
+	'underclocked',
+	'rickety',
+	'ignorant'
 ]
 
 const list2= [
-	'College Dropout',
-	'Backup Dancer',
-	'Brainrotted',
-	'Less Popular',
-	'Illegitimate',
-	'Idiotic',
-	'Moronic',
-	'Poorly Constructed',
-	'Aftermarket'
+	'college dropout',
+	'backup dancer',
+	'brainrotted',
+	'less popular',
+	'illegitimate',
+	'idiotic',
+	'moronic',
+	'poorly constructed',
+	'aftermarket',
+	'rusted out',
+	'antique',
+	'scumbag'
 ]
 
 document.onreadystatechange = () => {
