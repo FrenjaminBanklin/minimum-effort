@@ -1,4 +1,19 @@
+body {
+    text-align: center;
+    background-image: url(https://techrangers.cdl.ucf.edu/assets/images/background-pattern.svg);
+}
+h1 {
+    width: 50%;
+}
+div {
+    display: flex;
+    flex-direction: row;
+}
+p span {
+    display: block;
+    font-size: 1.5em;
+}
 img {
-    width: 500px;
+    width: 400px;
     height: auto;
 }
